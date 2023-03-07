@@ -67,6 +67,8 @@ b站课程 《Go语言 Gin+Vue 前后端分离实战 - OceanLearn》学习笔记
 依赖:
 * gin
 * gorm
+* jwt
+* viper
 
 ### 数据库设计
 数据库名称: ginessential
